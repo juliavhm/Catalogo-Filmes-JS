@@ -1,0 +1,32 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: linear-gradient( to left, red, black 50%); 
+    background-size: cover;
+    background-position: center top;
+    
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #900101;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  
